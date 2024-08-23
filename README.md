@@ -1,6 +1,6 @@
 # Hello, I'm Marcus Selin! 👋
 
-I'm a passionate web developer from Finland. I enjoy creating games and applications especially with Unity C#.
+I'm a coder from Finland and i enjoy creating games and applications especially with Unity C#.
 
 ## 🔧 Technologies & Tools
   - Languages
