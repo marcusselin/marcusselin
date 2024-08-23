@@ -4,13 +4,13 @@ I'm a passionate web developer from Finland. I enjoy creating games and applicat
 
 ## 🔧 Technologies & Tools
 ## Languages
-    - HTML
-    - CSS
-    - JavaScript
-    - C#
-    - Python
+- HTML
+- CSS
+- JavaScript
+- C#
+- Python
 ## Tools
-    - Unity 2D & 3D
+- Unity 2D & 3D
 
 ## 🌱 Currently Learning
 
