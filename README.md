@@ -1,12 +1,21 @@
-## Hello there 👋
+# Hello, I'm Marcus Selin! 👋
 
-Here are some ideas to get you started:
+I'm a passionate web developer from Finland. I enjoy creating games and applications especially with unity C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Technologies & Tools
+- HTML
+- CSS
+- JavaScript
+- C#
+- Python
+
+## 🌱 Currently Learning
+
+I'm currently focused on improving my skills in Unity C#.
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/marcus-selin-56a3b2319/
+- Email: marcus.selin.daniel@gmail.com
+
+Feel free to reach out! Let's connect and collaborate on exciting projects.
