@@ -22,4 +22,4 @@ I am studying to become a software developer at a vocational school!
 - LinkedIn: https://www.linkedin.com/in/marcus-selin-56a3b2319/
 - Email: marcus.selin.daniel@gmail.com
 
-Feel free to reach out! Let's connect and collaborate on exciting projects.
+Feel free to reach out! Let's connect and collaborate on exciting projects!
