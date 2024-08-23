@@ -17,6 +17,9 @@ I'm a passionate web developer from Finland. I enjoy creating games and applicat
 I'm currently focused on improving my skills in Unity C#, CSS & JavaScript.
 I am studying to become a software developer at a vocational school!
 
+## My projects
+  - Searun: https://tugame.itch.io/sea-run
+
 ## 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/marcus-selin-56a3b2319/
