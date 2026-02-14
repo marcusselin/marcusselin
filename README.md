@@ -1,6 +1,6 @@
 # Hello, I'm Marcus Selin! 👋
 
-I'm a coder from Finland and i enjoy creating games and applications especially with Unity C#.
+I'm a educated programmer from Finland and i enjoy creating games and applications especially with Unity C#.
 
 ## 🔧 Technologies & Tools
   - Languages
@@ -9,15 +9,18 @@ I'm a coder from Finland and i enjoy creating games and applications especially 
     - JavaScript
     - C#
     - Python
+    - Java
   - Tools
     - Unity 2D & 3D
+    - Visual Studio
+    - Visual Studio Code
+    - IntelliJ
 
 ## 🌱 Currently Learning
 
-I'm currently focused on improving my skills in Unity C#, CSS & JavaScript.
-I am studying to become a software developer at a vocational school!
+I'm currently focused on improving my skills in Unity, C#, Java and new exciting things in the world of coding.
 
-## My projects
+## Projects ive been in
   - Searun: https://tugame.itch.io/sea-run
 
 ## 📫 Contact Me
