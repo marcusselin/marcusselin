@@ -15,6 +15,7 @@ I'm a educated programmer from Finland and i enjoy creating games and applicatio
     - Visual Studio
     - Visual Studio Code
     - IntelliJ
+    - Pycharm
 
 ## 🌱 Currently Learning
 
