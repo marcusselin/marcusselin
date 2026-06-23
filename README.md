@@ -10,6 +10,7 @@ I'm a educated programmer from Finland and i enjoy creating games and applicatio
     - C#
     - Python
     - Java
+    - SQL (e.g. SQLite)
   - Tools
     - Unity 2D & 3D
     - Visual Studio
